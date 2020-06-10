@@ -14,6 +14,6 @@ class Work < ApplicationRecord
 
 
   def self.sort_by_vote(category)
-  
+
   end
 end
