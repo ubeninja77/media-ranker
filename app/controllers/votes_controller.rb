@@ -9,7 +9,7 @@ class VotesController < ApplicationController
       @user = User.find(session[:user_id])
       @vote = Vote.new(user_id: @user.id, work_id: params[:work_id])
       if @vote.save
-        flash[:success]lly upvoted for #{@work.title}."
+        flash[:success] = "You've successfully upvoted for #{@work.title}."
       else
         flash[:error] = "Looks like you've already voted for #{@work.title}."
         redirect_to works_path
