@@ -1,0 +1,28 @@
+.row_header {
+  grid-template-columns: 6;
+  justify-content: space-around;
+  color: black;
+}
+
+.show_header {
+  grid-template: 4;
+  color: black;
+}
+
+.btn-primary {
+  background-color: #00796B;
+  color: white;
+  border-color: #26A69A;
+  justify-content: space-around;
+ }
+
+.btn-main-delete {
+  color: white;
+  background-color: #ca303f;
+  border-color: #ca303f;
+}
+
+.works-votes-container {
+  margin-top: 2rem;
+  color: black;
+} 
