@@ -33,6 +33,10 @@ class UsersController < ApplicationController
     redirect_to root_path
   end
 
+  def login_form
+    @user = User.new
+  end
+
   def logout
     if session[:user_id]
       user = User.find_by(id: session[:user_id])
