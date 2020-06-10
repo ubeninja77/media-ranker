@@ -46,11 +46,9 @@
     <section class="spotlight">
       <h2 class="spotlight__header">
         <span class="spotlight__header--prefix">Media Spotlight</span>
-        <a class="spotlight__link-to" href="">To Thrill a Mockingbird</a> by Harper Leeee
+        <%=link_to Work.spotlight.title, work_path(Work.spotlight.id) %>
       </h2>
-      <p class="spotlight__description">
-        6 votes - brand new
-      </p>
+        <p class="spotlight__description"><%= Work.spotlight.votes.count %> votes -</p>
     </section>
 
     <hr class="root__hr">
