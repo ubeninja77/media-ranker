@@ -59,7 +59,7 @@ class UsersController < ApplicationController
 
   private
   def find_user
-    user_id = params[:id].to_i
+    user_id = params[:id]
     @user = User.find_by(id: user_id)
   end
 
