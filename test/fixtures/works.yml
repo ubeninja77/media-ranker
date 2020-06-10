@@ -1,0 +1,37 @@
+
+The Devil Wears Prada:
+  category: movie	
+  title: The Devil Wears Prada
+  creator: David Frankel	
+  publication_year: 2006	
+  description: Andy is an aspiring journalist fresh out of Northwestern University. Despite her ridicule for the shallowness of the fashion industry, she lands a job as junior personal assistant to Miranda Priestly, a job that "millions of girls would kill for".
+The Prophet:
+  category: book	
+  title: The Prophet	
+  creator: Khalil Gibran
+  publication_year: 1923
+  description: 26 prose poetry fables written in English by the Lebanese-American poet and writer Kahlil Gibran.
+Sick Boy: 
+  category: album	
+  title: Sick Boy
+  creator: The Chainsmokers
+  publication_year: 2018
+  description: The second studio album by American DJ and production duo The Chainsmokers.
+Lover:  
+  category: album	
+  title: Lover
+  creator: Taylor Swift
+  publication_year: 2019
+  description: The seventh studio album by American singer-songwriter Taylor Swift. Lover celebrates the ups and downs of love.
+The Departed: 
+  category: movie 
+  title: The Departed
+  creator: Martin Scorsese
+  publication_year: 2006	
+  description: An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.
+A B to Jay-Z:
+  category: book	
+  title: A B to Jay-Z 	
+  creator: Jessica Chiha	
+  publication_year: 2017	
+  description: This hip-hop inspired book is designed to pump up your child’s alphabet game. Relive some of the greatest Rap, Hip Hop, and R&B musicians of our time, while teaching your children where it's at, for real.
