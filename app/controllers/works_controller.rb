@@ -2,6 +2,7 @@ class WorksController < ApplicationController
 
   before_action :find_work, only: [:show, :edit, :update, :destroy]
 
+
   def main
     @works = Work.all
   end
