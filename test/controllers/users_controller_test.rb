@@ -8,21 +8,21 @@ describe UsersController do
 
   # Arrange 
 
- # Act 
+  # Act 
  
- # Assert
+  # Assert
 
 
- # Arrange 
+  # Arrange 
 
- # Act 
- 
- # Assert
+  # Act 
+  
+  # Assert
 
- # Arrange 
+  # Arrange 
 
- # Act 
- 
- # Assert
+  # Act 
+  
+  # Assert
  
 end
